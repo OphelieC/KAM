@@ -160,5 +160,5 @@ if (GVAR(coagulation)) then {
                 };
             } forEach _openWounds;
         };
-    }, 8, [_unit]] call CBA_fnc_addPerFrameHandler;
+    }, 16, [_unit]] call CBA_fnc_addPerFrameHandler;
 };
