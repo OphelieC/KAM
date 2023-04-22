@@ -34,7 +34,7 @@ _unit setVariable [QGVAR(alphaAction), 1];
 _unit setVariable [QGVAR(TXA), 1, true];
 
 _unit setVariable [QGVAR(pH), 1500, true];
-_unit setVariable [QGVAR(coagulationFactor), 10, true];
+_unit setVariable [QGVAR(coagulationFactor), 5, true];
 _unit setVariable [QGVAR(kidneyFail), false, true];
 _unit setVariable [QGVAR(kidneyArrest), false, true];
 _unit setVariable [QGVAR(kidneyPressure), false, true];
